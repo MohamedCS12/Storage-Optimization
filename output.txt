@@ -1,0 +1,31 @@
+Bin: container_1
+Total Volume: 343.0 cm^3
+Space Utilization: 41.98%
+Remaining Volume: 199.0 cm^3
+Gravity Distribution: [45.83, 21.88, 20.83, 11.46]
+
+FITTED ITEMS:
+Part No: item_1, Dimensions: (2 * 2 * 2), Weight: 6kg
+Part No: item_4, Dimensions: (2 * 2 * 2), Weight: 6kg
+Part No: item_7, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_10, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_13, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_16, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_2, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_5, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_8, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_11, Dimensions: (2 * 2 * 2), Weight: 6kg
+Part No: item_14, Dimensions: (2 * 2 * 2), Weight: 6kg
+Part No: item_17, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_3, Dimensions: (2 * 2 * 2), Weight: 6kg
+Part No: item_6, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_9, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_12, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_15, Dimensions: (2 * 2 * 2), Weight: 5kg
+Part No: item_18, Dimensions: (2 * 2 * 2), Weight: 6kg
+
+UNFITTED ITEMS:
+Part No: item_19, Dimensions: (2 * 2 * 2), Weight: 6kg
+Part No: item_20, Dimensions: (2 * 2 * 2), Weight: 6kg
+
+--------------------------------------------------
