@@ -1,5 +1,5 @@
 # Storage-Optimization
- This my Final Year Project.
+ This my Final Year Project at Monash University.
 
  # Description
 This project focuses on developing strategies to optimize the placement of Stock Keeping Units (SKUs) onto pallets in fulfillment centers to maximize space utilization and minimize wastage. The challenge arises from the diversity of products, each with different shapes, sizes, and fragility. The solution aims to efficiently arrange these SKUs while considering constraints such as product compatibility, mixed placement requirements, and pallet stability.
